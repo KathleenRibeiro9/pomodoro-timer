@@ -1,8 +1,11 @@
-# React + Vite
+## Pomodoro Timer
+Este é um projeto simples de um Pomodoro Timer desenvolvido com React e Vite. O Pomodoro Timer é uma técnica de gerenciamento de tempo que utiliza intervalos de trabalho e descanso para aumentar a produtividade.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Funcionalidades
+Temporizador Pomodoro: Defina o tempo de trabalho e inicie o temporizador para começar a sua tarefa.
+Pausar e Retomar: Pause o temporizador a qualquer momento e retome quando estiver pronto para continuar.
+Temporizador de Pausa Curta: Inicie um temporizador de pausa curta após cada intervalo de trabalho.
+Reiniciar: Reinicie o temporizador para um novo ciclo de trabalho e pausa.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Contribuições
+Contribuições são bem-vindas! Se você encontrou algum problema no projeto ou deseja adicionar novas funcionalidades, fique à vontade para abrir um pull request.
